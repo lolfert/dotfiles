@@ -1,0 +1,1 @@
+:host{all:initial!important;width:0!important;height:0!important}#capture,#confirm,#select{all:initial;position:fixed;bottom:0;width:100%;z-index:2147483647}#select{left:50%;max-width:416px;height:64px;transform:translateX(-50%)}#capture,#confirm{top:0;right:0;left:0;height:100%}.hidden{display:none!important}

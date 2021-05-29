@@ -1,0 +1,24 @@
+2021/05/28-15:03:31.174 5 Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/05/28-15:03:31.175 5 Recovering log #103
+2021/05/28-15:03:31.175 5 Reusing old log /home/luke/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000103.log 
+2021/05/28-22:39:47.902 57 Level-0 table #108: started
+2021/05/28-22:39:47.908 57 Level-0 table #108: 18645 bytes OK
+2021/05/28-22:39:47.911 57 Delete type=0 #103
+2021/05/28-22:43:59.942 57 Level-0 table #110: started
+2021/05/28-22:43:59.948 57 Level-0 table #110: 11221 bytes OK
+2021/05/28-22:43:59.951 57 Delete type=0 #107
+2021/05/28-22:44:42.804 5b Level-0 table #112: started
+2021/05/28-22:44:42.810 5b Level-0 table #112: 9258 bytes OK
+2021/05/28-22:44:42.814 5b Delete type=0 #109
+2021/05/28-22:45:52.304 5b Level-0 table #114: started
+2021/05/28-22:45:52.310 5b Level-0 table #114: 10163 bytes OK
+2021/05/28-22:45:52.313 5b Delete type=0 #111
+2021/05/28-22:45:52.313 5b Compacting 4@0 + 1@1 files
+2021/05/28-22:45:52.318 5b Generated table #115@0: 3300 keys, 80062 bytes
+2021/05/28-22:45:52.318 5b Compacted 4@0 + 1@1 files => 80062 bytes
+2021/05/28-22:45:52.320 5b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/28-22:45:52.321 5b Delete type=2 #112
+2021/05/28-22:45:52.321 5b Delete type=2 #105
+2021/05/28-22:45:52.321 5b Delete type=2 #110
+2021/05/28-22:45:52.321 5b Delete type=2 #108
+2021/05/28-22:45:52.321 5b Delete type=2 #114

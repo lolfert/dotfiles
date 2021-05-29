@@ -1,0 +1,18 @@
+{
+   "OFF": {
+      "description": "App OFF",
+      "message": "Pinterest Enhanced Apagado"
+   },
+   "ON": {
+      "description": "App ON",
+      "message": "Pinterest Enhanced Activado"
+   },
+   "desc": {
+      "description": "App Description",
+      "message": "El Pinterest habitual, pero más práctico y eficiente!"
+   },
+   "title": {
+      "description": "App Name",
+      "message": "Pinterest Enhanced"
+   }
+}

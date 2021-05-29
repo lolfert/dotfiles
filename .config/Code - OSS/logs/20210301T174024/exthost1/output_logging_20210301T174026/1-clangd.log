@@ -1,0 +1,76 @@
+I[17:40:26.795] clangd version 11.0.1
+I[17:40:26.795] PID: 267373
+I[17:40:26.795] Working directory: /media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2
+I[17:40:26.795] argv[0]: /usr/bin/clangd
+I[17:40:26.795] Starting LSP over stdin/stdout
+I[17:40:26.796] <-- initialize(0)
+I[17:40:26.796] Client supports legacy semanticHighlights notification and standard semanticTokens request, choosing the latter (no notifications).
+I[17:40:26.796] --> reply:initialize(0) 0 ms
+I[17:40:26.900] <-- initialized
+I[17:40:26.900] <-- textDocument/didOpen
+I[17:40:26.936] <-- textDocument/codeAction(1)
+I[17:40:26.936] <-- textDocument/documentLink(2)
+I[17:40:27.065] Failed to find compilation database for /media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2/maze_start.c
+I[17:40:27.065] ASTWorker building file /media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2/maze_start.c version 1 with command clangd fallback
+[/media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2]
+/usr/bin/clang /media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2/maze_start.c -fsyntax-only -resource-dir=/usr/lib/clang/11.0.1
+I[17:40:27.068] --> textDocument/clangd.fileStatus
+I[17:40:27.176] --> textDocument/publishDiagnostics
+I[17:40:27.177] --> reply:textDocument/codeAction(1) 240 ms
+I[17:40:27.177] --> reply:textDocument/documentLink(2) 240 ms
+I[17:40:27.177] --> textDocument/clangd.fileStatus
+I[17:40:27.444] <-- textDocument/codeAction(3)
+I[17:40:27.445] --> reply:textDocument/codeAction(3) 0 ms
+I[17:40:27.445] --> textDocument/clangd.fileStatus
+I[17:40:28.410] <-- textDocument/codeAction(4)
+I[17:40:28.410] <-- textDocument/documentSymbol(5)
+I[17:40:28.410] --> reply:textDocument/codeAction(4) 0 ms
+I[17:40:28.414] --> reply:textDocument/documentSymbol(5) 3 ms
+I[17:40:28.414] --> textDocument/clangd.fileStatus
+I[17:40:28.638] <-- textDocument/documentSymbol(6)
+I[17:40:28.639] --> reply:textDocument/documentSymbol(6) 1 ms
+I[17:40:28.640] --> textDocument/clangd.fileStatus
+I[17:40:29.236] <-- textDocument/documentSymbol(7)
+I[17:40:29.238] --> reply:textDocument/documentSymbol(7) 1 ms
+I[17:40:29.238] --> textDocument/clangd.fileStatus
+I[17:40:29.465] <-- textDocument/documentSymbol(8)
+I[17:40:29.467] --> reply:textDocument/documentSymbol(8) 2 ms
+I[17:40:29.468] --> textDocument/clangd.fileStatus
+I[17:40:31.796] <-- textDocument/didClose
+I[17:40:31.797] --> textDocument/publishDiagnostics
+I[17:40:33.733] <-- textDocument/didOpen
+I[17:40:33.801] <-- textDocument/documentLink(9)
+I[17:40:33.801] <-- textDocument/codeAction(10)
+I[17:40:33.801] <-- textDocument/documentSymbol(11)
+I[17:40:33.873] Failed to find compilation database for /media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2/maze_start.c
+I[17:40:33.873] ASTWorker building file /media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2/maze_start.c version 1 with command clangd fallback
+[/media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2]
+/usr/bin/clang /media/Google Drive/School/Winter 2021/COMP2160 - Programming Practices/Assignments/Assignment 2/maze_start.c -fsyntax-only -resource-dir=/usr/lib/clang/11.0.1
+I[17:40:33.875] --> textDocument/clangd.fileStatus
+I[17:40:33.960] <-- textDocument/codeAction(12)
+I[17:40:33.960] <-- $/cancelRequest
+I[17:40:33.996] --> textDocument/publishDiagnostics
+I[17:40:33.996] --> reply:textDocument/documentLink(9) 195 ms
+I[17:40:33.996] --> reply:textDocument/codeAction(10) 195 ms, error: Task was cancelled.
+I[17:40:33.997] --> reply:textDocument/documentSymbol(11) 196 ms
+I[17:40:33.998] --> reply:textDocument/codeAction(12) 38 ms
+I[17:40:33.998] --> textDocument/clangd.fileStatus
+I[17:40:34.257] <-- textDocument/codeAction(13)
+I[17:40:34.257] --> reply:textDocument/codeAction(13) 0 ms
+I[17:40:34.257] --> textDocument/clangd.fileStatus
+I[17:40:48.177] <-- textDocument/documentSymbol(14)
+I[17:40:48.241] --> reply:textDocument/documentSymbol(14) 63 ms
+I[17:40:48.241] --> textDocument/clangd.fileStatus
+I[17:40:48.394] <-- textDocument/documentSymbol(15)
+I[17:40:48.395] --> reply:textDocument/documentSymbol(15) 1 ms
+I[17:40:48.395] --> textDocument/clangd.fileStatus
+I[17:40:49.192] <-- textDocument/documentSymbol(16)
+I[17:40:49.194] --> reply:textDocument/documentSymbol(16) 1 ms
+I[17:40:49.194] --> textDocument/clangd.fileStatus
+I[17:40:49.415] <-- textDocument/documentSymbol(17)
+I[17:40:49.417] --> reply:textDocument/documentSymbol(17) 2 ms
+I[17:40:49.418] --> textDocument/clangd.fileStatus
+I[17:42:27.310] <-- shutdown(18)
+I[17:42:27.310] --> reply:shutdown(18) 0 ms
+E[17:42:27.312] Transport error: Input/output error
+I[17:42:27.312] LSP finished, exiting with status 1

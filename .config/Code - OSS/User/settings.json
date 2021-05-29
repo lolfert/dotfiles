@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "AMOLED",
+    "editor.fontSize": 18,
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "vscode-neovim.mouseSelectionStartVisualMode": true,
+"editor.tabSize": 12,
+"terminal.integrated.fontSize": 18,
+"terminal.integrated.lineHeight": 1.2,
+"debug.console.fontSize": 18,
+"[c]": {
+            "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
+},
+"typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+"javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+"editor.detectIndentation": false,
+"clangd.checkUpdates": true
+}

@@ -1,0 +1,8 @@
+2021/05/22-20:36:47.719 8465f Reusing MANIFEST /home/luke/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/22-20:36:47.719 8465f Recovering log #389
+2021/05/22-20:36:47.719 8465f Reusing old log /home/luke/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000389.log 
+2021/05/22-20:36:49.723 84632 Level-0 table #393: started
+2021/05/22-20:36:49.723 84632 Level-0 table #393: 0 bytes OK
+2021/05/22-20:36:49.725 84632 Delete type=0 #389
+2021/05/22-20:36:49.726 84632 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/22-20:36:49.726 84632 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

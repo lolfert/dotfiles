@@ -1,0 +1,24 @@
+2021/05/27-23:11:42.167 3 Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/05/27-23:11:42.167 3 Recovering log #1140
+2021/05/27-23:11:42.168 3 Reusing old log /home/luke/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001140.log 
+2021/05/27-23:11:52.923 3 Level-0 table #1145: started
+2021/05/27-23:11:52.927 3 Level-0 table #1145: 13544 bytes OK
+2021/05/27-23:11:52.934 3 Delete type=0 #1140
+2021/05/27-23:16:47.067 5 Level-0 table #1147: started
+2021/05/27-23:16:47.073 5 Level-0 table #1147: 24503 bytes OK
+2021/05/27-23:16:47.076 5 Delete type=0 #1144
+2021/05/27-23:21:51.965 7 Level-0 table #1149: started
+2021/05/27-23:21:51.969 7 Level-0 table #1149: 29902 bytes OK
+2021/05/27-23:21:51.971 7 Delete type=0 #1146
+2021/05/27-23:28:47.068 7 Level-0 table #1151: started
+2021/05/27-23:28:47.075 7 Level-0 table #1151: 31180 bytes OK
+2021/05/27-23:28:47.096 7 Delete type=0 #1148
+2021/05/27-23:28:47.096 7 Compacting 4@0 + 1@1 files
+2021/05/27-23:28:47.110 7 Generated table #1152@0: 1076 keys, 885343 bytes
+2021/05/27-23:28:47.111 7 Compacted 4@0 + 1@1 files => 885343 bytes
+2021/05/27-23:28:47.113 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/27-23:28:47.114 7 Delete type=2 #1147
+2021/05/27-23:28:47.114 7 Delete type=2 #1142
+2021/05/27-23:28:47.114 7 Delete type=2 #1145
+2021/05/27-23:28:47.114 7 Delete type=2 #1149
+2021/05/27-23:28:47.114 7 Delete type=2 #1151

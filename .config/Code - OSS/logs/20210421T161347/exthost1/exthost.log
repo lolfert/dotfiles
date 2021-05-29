@@ -1,0 +1,44 @@
+[2021-04-21 16:13:48.551] [exthost] [info] extension host started
+[2021-04-21 16:13:48.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-21 16:13:48.589] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-04-21 16:13:48.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-21 16:13:48.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-04-21 16:13:48.606] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-04-21 16:13:48.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode-oss/extensions/vscodevim.vim-1.19.3/out/extension
+[2021-04-21 16:13:48.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-21 16:13:48.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-04-21 16:13:48.811] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-21 16:13:48.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-21 16:13:48.894] [exthost] [info] eager extensions activated
+[2021-04-21 16:13:48.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-21 16:13:48.907] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-21 16:13:48.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-21 16:13:48.922] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-21 16:13:48.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-21 16:13:48.926] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-21 16:14:42.731] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-21 16:14:43.741] [exthost] [info] exiting with code 0
+[2021-04-21 16:14:44.270] [exthost] [info] extension host started
+[2021-04-21 16:14:44.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-21 16:14:44.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-04-21 16:14:44.303] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-21 16:14:44.303] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-04-21 16:14:44.317] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-04-21 16:14:44.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode-oss/extensions/vscodevim.vim-1.19.3/out/extension
+[2021-04-21 16:14:44.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-21 16:14:44.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-04-21 16:14:44.536] [exthost] [info] eager extensions activated
+[2021-04-21 16:14:44.536] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-21 16:14:44.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-21 16:14:44.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-21 16:14:44.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-21 16:14:44.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-21 16:14:44.615] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-21 16:14:44.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-21 16:14:44.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-21 16:15:10.210] [exthost] [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd {"startup":false,"extensionId":{"value":"llvm-vs-code-extensions.vscode-clangd","_lower":"llvm-vs-code-extensions.vscode-clangd"},"activationEvent":"onLanguage:c"}
+[2021-04-21 16:15:10.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.11/out/src/extension
+[2021-04-21 16:17:30.041] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-04-21 16:17:30.041] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-04-21 17:20:01.285] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-21 17:20:02.310] [exthost] [info] exiting with code 0

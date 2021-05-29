@@ -1,0 +1,15 @@
+2021/05/28-15:11:17.005 21bf83 Reusing MANIFEST /home/luke/.config/chromium/Default/Extension State/MANIFEST-000001
+2021/05/28-15:11:17.006 21bf83 Recovering log #69
+2021/05/28-15:11:17.006 21bf83 Reusing old log /home/luke/.config/chromium/Default/Extension State/000069.log 
+2021/05/28-17:31:30.238 23809f Level-0 table #73: started
+2021/05/28-17:31:30.268 23809f Level-0 table #73: 2212933 bytes OK
+2021/05/28-17:31:30.276 23809f Delete type=0 #69
+2021/05/28-17:31:30.276 23809f Compacting 4@0 + 1@1 files
+2021/05/28-17:31:30.308 23809f Generated table #74@0: 4 keys, 7414 bytes
+2021/05/28-17:31:30.309 23809f Compacted 4@0 + 1@1 files => 7414 bytes
+2021/05/28-17:31:30.315 23809f compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/28-17:31:30.315 23809f Delete type=2 #70
+2021/05/28-17:31:30.315 23809f Delete type=2 #64
+2021/05/28-17:31:30.315 23809f Delete type=2 #73
+2021/05/28-17:31:30.315 23809f Delete type=2 #68
+2021/05/28-17:31:30.315 23809f Delete type=2 #66

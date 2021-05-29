@@ -1,0 +1,25 @@
+2021/05/25-22:55:56.142 1c673b Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/25-22:55:56.142 1c673b Recovering log #52
+2021/05/25-22:55:56.142 1c673b Reusing old log /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb/000052.log 
+2021/05/25-23:10:14.527 1c43a7 Level-0 table #58: started
+2021/05/25-23:10:14.550 1c43a7 Level-0 table #58: 2128183 bytes OK
+2021/05/25-23:10:14.554 1c43a7 Delete type=0 #52
+2021/05/25-23:12:58.190 1c673b Level-0 table #60: started
+2021/05/25-23:12:58.202 1c673b Level-0 table #60: 492557 bytes OK
+2021/05/25-23:12:58.204 1c673b Delete type=0 #57
+2021/05/25-23:12:58.205 1c673b Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 50661 : 1
+2021/05/25-23:12:58.205 1c673b Compacting 1@0 + 1@1 files
+2021/05/25-23:12:58.216 1c673b Generated table #61@0: 1746 keys, 176959 bytes
+2021/05/25-23:12:58.216 1c673b Compacted 1@0 + 1@1 files => 176959 bytes
+2021/05/25-23:12:58.218 1c673b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/25-23:12:58.218 1c673b Delete type=2 #60
+2021/05/25-23:12:58.218 1c673b Delete type=2 #58
+2021/05/25-23:12:58.219 1c673b Manual compaction at level-0 from '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 50661 : 1 .. (end); will stop at (end)
+2021/05/25-23:12:58.219 1c673b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 50661 : 1
+2021/05/25-23:12:58.219 1c673b Compacting 1@1 + 1@2 files
+2021/05/25-23:12:58.226 1c673b Generated table #62@1: 150 keys, 163360 bytes
+2021/05/25-23:12:58.226 1c673b Compacted 1@1 + 1@2 files => 163360 bytes
+2021/05/25-23:12:58.229 1c673b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/25-23:12:58.229 1c673b Delete type=2 #61
+2021/05/25-23:12:58.229 1c673b Delete type=2 #55
+2021/05/25-23:12:58.229 1c673b Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 50661 : 1 .. (end); will stop at (end)

@@ -1,0 +1,26 @@
+2021/05/28-15:11:16.043 21bf83 Reusing MANIFEST /home/luke/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/05/28-15:11:16.043 21bf83 Recovering log #609
+2021/05/28-15:11:16.047 21bf83 Reusing old log /home/luke/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000609.log 
+2021/05/28-15:14:20.269 21bf64 Level-0 table #613: started
+2021/05/28-15:14:20.292 21bf64 Level-0 table #613: 2037914 bytes OK
+2021/05/28-15:14:20.294 21bf64 Delete type=0 #609
+2021/05/28-15:22:22.095 21bf83 Level-0 table #615: started
+2021/05/28-15:22:22.115 21bf83 Level-0 table #615: 1543111 bytes OK
+2021/05/28-15:22:22.118 21bf83 Delete type=0 #612
+2021/05/28-15:36:03.677 21bf83 Level-0 table #617: started
+2021/05/28-15:36:03.697 21bf83 Level-0 table #617: 1714573 bytes OK
+2021/05/28-15:36:03.701 21bf83 Delete type=0 #614
+2021/05/28-15:36:03.702 21bf83 Compacting 4@0 + 4@1 files
+2021/05/28-15:36:03.745 21bf83 Generated table #618@0: 17 keys, 2117179 bytes
+2021/05/28-15:36:03.819 21bf83 Generated table #619@0: 15 keys, 2382124 bytes
+2021/05/28-15:36:03.822 21bf83 Generated table #620@0: 9 keys, 165806 bytes
+2021/05/28-15:36:03.823 21bf83 Compacted 4@0 + 4@1 files => 4665109 bytes
+2021/05/28-15:36:03.824 21bf83 compacted to: files[ 0 3 1 0 0 0 0 ]
+2021/05/28-15:36:03.825 21bf83 Delete type=2 #610
+2021/05/28-15:36:03.825 21bf83 Delete type=2 #606
+2021/05/28-15:36:03.825 21bf83 Delete type=2 #613
+2021/05/28-15:36:03.825 21bf83 Delete type=2 #608
+2021/05/28-15:36:03.825 21bf83 Delete type=2 #605
+2021/05/28-15:36:03.825 21bf83 Delete type=2 #615
+2021/05/28-15:36:03.825 21bf83 Delete type=2 #617
+2021/05/28-15:36:03.825 21bf83 Delete type=2 #607

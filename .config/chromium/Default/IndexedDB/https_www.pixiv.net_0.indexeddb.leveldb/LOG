@@ -1,0 +1,25 @@
+2021/05/18-22:24:58.268 11eb00 Reusing MANIFEST /home/luke/.config/chromium/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/18-22:24:58.268 11eb00 Recovering log #4
+2021/05/18-22:24:58.269 11eb00 Reusing old log /home/luke/.config/chromium/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb/000004.log 
+2021/05/18-22:33:14.788 11eb00 Level-0 table #8: started
+2021/05/18-22:33:14.816 11eb00 Level-0 table #8: 2128255 bytes OK
+2021/05/18-22:33:14.829 11eb00 Delete type=0 #4
+2021/05/19-13:56:20.267 120add Level-0 table #10: started
+2021/05/19-13:56:20.270 120add Level-0 table #10: 399 bytes OK
+2021/05/19-13:56:20.272 120add Delete type=0 #7
+2021/05/19-13:56:20.272 120add Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x0e\x00l\x00i\x00n\x00k\x00e\x00d\x00_\x00s\x00e\x00r\x00v\x00i\x00c\x00e' @ 5774 : 1
+2021/05/19-13:56:20.272 120add Compacting 1@0 + 1@1 files
+2021/05/19-13:56:20.282 120add Generated table #11@0: 1962 keys, 174947 bytes
+2021/05/19-13:56:20.282 120add Compacted 1@0 + 1@1 files => 174947 bytes
+2021/05/19-13:56:20.284 120add compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/19-13:56:20.284 120add Delete type=2 #8
+2021/05/19-13:56:20.284 120add Delete type=2 #10
+2021/05/19-13:56:20.285 120add Manual compaction at level-0 from '\x00\x01\x02\x02\x01\x0e\x00l\x00i\x00n\x00k\x00e\x00d\x00_\x00s\x00e\x00r\x00v\x00i\x00c\x00e' @ 5774 : 1 .. (end); will stop at (end)
+2021/05/19-13:56:20.285 120add Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 5683 : 1
+2021/05/19-13:56:20.285 120add Compacting 1@1 + 1@2 files
+2021/05/19-13:56:20.289 120add Generated table #12@1: 142 keys, 159544 bytes
+2021/05/19-13:56:20.289 120add Compacted 1@1 + 1@2 files => 159544 bytes
+2021/05/19-13:56:20.290 120add compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/19-13:56:20.291 120add Delete type=2 #5
+2021/05/19-13:56:20.291 120add Delete type=2 #11
+2021/05/19-13:56:20.291 120add Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 5683 : 1 .. (end); will stop at (end)

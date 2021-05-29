@@ -1,0 +1,9 @@
+[2021-04-21 16:13:48.574] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/luke/.vscode-oss/extensions/vscodevim.vim-1.19.0
+[2021-04-21 16:14:28.497] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-21 16:14:45.568] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-04-21 16:14:47.645] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-04-21 16:14:47.859] [sharedprocess] [info] Extracted extension to /home/luke/.vscode-oss/extensions/.vscodevim.vim-1.20.0: vscodevim.vim
+[2021-04-21 16:14:47.860] [sharedprocess] [info] Renamed to /home/luke/.vscode-oss/extensions/vscodevim.vim-1.20.0
+[2021-04-21 16:14:47.862] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-04-21 16:14:47.870] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-04-21 17:19:15.196] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

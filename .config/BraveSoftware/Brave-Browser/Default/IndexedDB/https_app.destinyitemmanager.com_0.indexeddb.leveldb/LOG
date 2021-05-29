@@ -1,0 +1,6 @@
+2021/05/18-18:19:05.389 102bee Creating DB /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.destinyitemmanager.com_0.indexeddb.leveldb since it was missing.
+2021/05/18-18:19:05.406 102bee Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.destinyitemmanager.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/18-18:19:15.579 102d73 Level-0 table #5: started
+2021/05/18-18:19:15.587 102d73 Level-0 table #5: 1012 bytes OK
+2021/05/18-18:19:15.595 102d73 Delete type=0 #3
+2021/05/18-18:19:15.595 102d73 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

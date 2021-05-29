@@ -1,0 +1,6 @@
+2021/05/18-19:49:55.155 1128ae Creating DB /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2021/05/18-19:49:55.172 1128ae Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/18-20:00:07.003 114dea Level-0 table #5: started
+2021/05/18-20:00:07.009 114dea Level-0 table #5: 2027 bytes OK
+2021/05/18-20:00:07.017 114dea Delete type=0 #3
+2021/05/18-20:00:07.018 114dea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,49 @@
+2021/05/22-20:36:47.643 8465f Reusing MANIFEST /home/luke/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/05/22-20:36:47.643 8465f Recovering log #588
+2021/05/22-20:36:47.655 8465f Reusing old log /home/luke/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000588.log 
+2021/05/22-20:45:51.680 8465d Level-0 table #592: started
+2021/05/22-20:45:51.710 8465d Level-0 table #592: 2554049 bytes OK
+2021/05/22-20:45:51.713 8465d Delete type=0 #588
+2021/05/22-20:54:24.423 8465d Level-0 table #594: started
+2021/05/22-20:54:24.453 8465d Level-0 table #594: 2123252 bytes OK
+2021/05/22-20:54:24.456 8465d Delete type=0 #591
+2021/05/22-20:54:24.457 8465d Compacting 4@0 + 3@1 files
+2021/05/22-20:54:24.488 8465d Generated table #595@0: 17 keys, 2147749 bytes
+2021/05/22-20:54:24.524 8465d Generated table #596@0: 24 keys, 1846988 bytes
+2021/05/22-20:54:24.524 8465d Compacted 4@0 + 3@1 files => 3994737 bytes
+2021/05/22-20:54:24.526 8465d compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/05/22-20:54:24.527 8465d Delete type=2 #584
+2021/05/22-20:54:24.527 8465d Delete type=2 #582
+2021/05/22-20:54:24.527 8465d Delete type=2 #592
+2021/05/22-20:54:24.527 8465d Delete type=2 #589
+2021/05/22-20:54:24.527 8465d Delete type=2 #594
+2021/05/22-20:54:24.527 8465d Delete type=2 #583
+2021/05/22-20:54:24.527 8465d Delete type=2 #586
+2021/05/22-21:05:55.798 8465d Level-0 table #598: started
+2021/05/22-21:05:55.824 8465d Level-0 table #598: 1722726 bytes OK
+2021/05/22-21:05:55.827 8465d Delete type=0 #593
+2021/05/22-22:12:47.703 8f991 Level-0 table #600: started
+2021/05/22-22:12:47.732 8f991 Level-0 table #600: 3006359 bytes OK
+2021/05/22-22:12:47.735 8f991 Delete type=0 #597
+2021/05/24-11:32:18.277 fec46 Level-0 table #602: started
+2021/05/24-11:32:18.302 fec46 Level-0 table #602: 2057449 bytes OK
+2021/05/24-11:32:18.305 fec46 Delete type=0 #599
+2021/05/25-13:52:00.935 122ae1 Level-0 table #604: started
+2021/05/25-13:52:00.960 122ae1 Level-0 table #604: 2114584 bytes OK
+2021/05/25-13:52:00.962 122ae1 Delete type=0 #601
+2021/05/25-13:52:00.963 122ae1 Compacting 4@0 + 2@1 files
+2021/05/25-13:52:00.993 122ae1 Generated table #605@0: 17 keys, 2143627 bytes
+2021/05/25-13:52:01.025 122ae1 Generated table #606@0: 7 keys, 2959407 bytes
+2021/05/25-13:52:01.054 122ae1 Generated table #607@0: 8 keys, 2436837 bytes
+2021/05/25-13:52:01.058 122ae1 Generated table #608@0: 9 keys, 171465 bytes
+2021/05/25-13:52:01.058 122ae1 Compacted 4@0 + 2@1 files => 7711336 bytes
+2021/05/25-13:52:01.060 122ae1 compacted to: files[ 0 4 1 0 0 0 0 ]
+2021/05/25-13:52:01.060 122ae1 Delete type=2 #604
+2021/05/25-13:52:01.060 122ae1 Delete type=2 #595
+2021/05/25-13:52:01.060 122ae1 Delete type=2 #600
+2021/05/25-13:52:01.060 122ae1 Delete type=2 #596
+2021/05/25-13:52:01.060 122ae1 Delete type=2 #602
+2021/05/25-13:52:01.060 122ae1 Delete type=2 #598
+2021/05/25-13:57:01.265 167dba Level-0 table #610: started
+2021/05/25-13:57:01.296 167dba Level-0 table #610: 2808426 bytes OK
+2021/05/25-13:57:01.298 167dba Delete type=0 #603

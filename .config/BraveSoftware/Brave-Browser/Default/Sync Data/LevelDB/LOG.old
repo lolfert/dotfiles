@@ -1,0 +1,6 @@
+2021/05/27-23:11:42.154 212cf4 Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/05/27-23:11:42.154 212cf4 Recovering log #184
+2021/05/27-23:11:42.155 212cf4 Reusing old log /home/luke/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000184.log 
+2021/05/27-23:19:35.026 214022 Level-0 table #189: started
+2021/05/27-23:19:35.033 214022 Level-0 table #189: 88474 bytes OK
+2021/05/27-23:19:35.037 214022 Delete type=0 #184

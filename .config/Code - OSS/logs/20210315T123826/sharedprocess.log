@@ -1,0 +1,7 @@
+[2021-03-15 12:38:36.666] [sharedprocess] [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+[2021-03-15 12:38:48.773] [sharedprocess] [info] Downloaded extension: llvm-vs-code-extensions.vscode-clangd undefined
+[2021-03-15 12:38:49.388] [sharedprocess] [info] Extracted extension to /home/luke/.vscode-oss/extensions/.llvm-vs-code-extensions.vscode-clangd-0.1.11: llvm-vs-code-extensions.vscode-clangd
+[2021-03-15 12:38:49.389] [sharedprocess] [info] Renamed to /home/luke/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.11
+[2021-03-15 12:38:49.389] [sharedprocess] [info] Installation completed. llvm-vs-code-extensions.vscode-clangd
+[2021-03-15 12:38:49.397] [sharedprocess] [info] Extensions installed successfully: llvm-vs-code-extensions.vscode-clangd
+[2021-03-15 12:39:09.829] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,211 @@
+{
+   "checksum": "fd76d8164843107fc610693f4505624c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13258966097325136",
+            "guid": "3b352292-4d7f-4e09-933d-7a98f4600764",
+            "id": "68",
+            "name": "Design Patterns",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLF206E906175C7E07"
+         }, {
+            "date_added": "13254265933438743",
+            "guid": "829715d1-7d9c-477c-962a-96f15d214b6d",
+            "id": "48",
+            "name": "Unity Learn",
+            "type": "url",
+            "url": "https://learn.unity.com/"
+         }, {
+            "date_added": "13248893648926916",
+            "guid": "e42cdaec-e535-4653-9db7-21bce0b4c5da",
+            "id": "5",
+            "name": "Notion",
+            "type": "url",
+            "url": "https://www.notion.so/School-1b083c67ae2547baa4ffb2a290e336f2"
+         }, {
+            "date_added": "13248908387298556",
+            "guid": "c28d0928-7e0b-41db-b6f3-93ffc33bf910",
+            "id": "6",
+            "name": "Calendar",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/u/0/r?pli=1"
+         }, {
+            "date_added": "13248908408874960",
+            "guid": "85cb500b-d91b-495f-b34d-5761d8b26cfd",
+            "id": "7",
+            "name": "Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/u/0/"
+         }, {
+            "date_added": "13248587013961907",
+            "guid": "ec578e30-f87b-4f29-8c35-9a856e281eea",
+            "id": "8",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13248908465124185",
+            "guid": "51a7b5af-862e-4235-913c-5e483b7aba93",
+            "id": "9",
+            "name": "ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/"
+         }, {
+            "date_added": "13248908438131516",
+            "guid": "c38ef9ef-dd40-46d1-9ea0-a19dc398012e",
+            "id": "10",
+            "name": "Pinterest",
+            "type": "url",
+            "url": "https://www.pinterest.com/"
+         }, {
+            "children": [ {
+               "date_added": "13248893108503766",
+               "guid": "2abd079f-56bf-4da9-8fc2-5567bd88bd03",
+               "id": "12",
+               "name": "UMLearn",
+               "type": "url",
+               "url": "https://universityofmanitoba.desire2learn.com/d2l/home"
+            }, {
+               "date_added": "13248893275652438",
+               "guid": "c01294c9-e2be-4e7f-9ea5-dae9bf15bace",
+               "id": "13",
+               "name": "Crowdmark",
+               "type": "url",
+               "url": "https://app.crowdmark.com/student/courses"
+            }, {
+               "date_added": "13248893577534419",
+               "guid": "169332eb-01b3-41f9-8266-0f420000eb41",
+               "id": "14",
+               "name": "Aurora",
+               "type": "url",
+               "url": "https://aurora.umanitoba.ca/banprod/twbkwbis.P_WWWLogin"
+            }, {
+               "date_added": "13248908176268586",
+               "guid": "ae4effbc-972b-4c3a-9ee6-f4ff8ca683ba",
+               "id": "15",
+               "name": "University Email",
+               "type": "url",
+               "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&redirect_uri=https%3A%2F%2Fwww.office.com%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=637400313738453347.ODhiMTZiZTMtODI4My00NTliLWEyMDItYjQzMzg4OWY5MmI5YjhkN2Y0ZDAtMDdhYi00MGE4LWI4YzAtYTQ5NTk5NmY3NzRj&ui_locales=en-GB&mkt=en-GB&client-request-id=3a43bdd6-8dae-43c8-ae14-56c78d883546&state=kNCL-4rtmPtkgNSJx1deprbK577wnWavjS27ckdOn2mVvIP-4vVMUgWJTHUvkntk9hdHRQXtbI_sU2m5PKDEufO_XXvzB7_94q_oVNot6VKa9693v-InJiLm5pkcXtxbdlyXBGuMMHkuHKdWqf3j7RBZulG_0aFL7pcrWhlwQ4x755t_dljPrtPSzFSRteEkIGh3uOfQvW1n2jIs4IOrUtqQ80ndsQU_k8BdgbuftnE5Uc4oHzGvL_L0aEre4tPxIsQhZZ4_FYcorPktmIHlSDFQ94OOpCwYsSDdmxlu8dw&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.6.0.0&sso_reload=true"
+            } ],
+            "date_added": "13253133036711394",
+            "date_modified": "13256452557663214",
+            "guid": "970c2926-2973-4ab1-96ab-81637e844595",
+            "id": "11",
+            "name": "School",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13249925277826186",
+               "guid": "60f6aab1-d093-4c77-8507-382a684fe28e",
+               "id": "17",
+               "name": "Ratatype",
+               "type": "url",
+               "url": "https://www.ratatype.com/u2692014/"
+            }, {
+               "date_added": "13249925308567201",
+               "guid": "02c63d99-21ed-4545-8f61-a4ec2c58f999",
+               "id": "18",
+               "name": "Keybr",
+               "type": "url",
+               "url": "https://www.keybr.com/"
+            }, {
+               "date_added": "13249925324103343",
+               "guid": "ee7725e2-f3b7-44ea-99e2-697b0b4de844",
+               "id": "19",
+               "name": "10FastFingers",
+               "type": "url",
+               "url": "https://10fastfingers.com/typing-test/english"
+            }, {
+               "date_added": "13258587897176514",
+               "guid": "f3d1853a-1698-4622-b310-7179751bf57d",
+               "id": "65",
+               "name": "typing practice - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=typing+practice&oq=typing+practice&aqs=chrome.0.35i39j0i433j0j0i433j0i131i433j0l2j69i61.2481j0j4&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13258747538724262",
+               "guid": "50cef9bc-d8e1-4b3c-88da-7c76332d15b9",
+               "id": "66",
+               "name": "TypingAcademy",
+               "type": "url",
+               "url": "https://www.typing.academy/"
+            }, {
+               "date_added": "13258878948801121",
+               "guid": "5353a285-a2c4-48b8-98f0-d36506c30dd6",
+               "id": "67",
+               "name": "Typing speed test - How fast can you type? - TypingAcademy",
+               "type": "url",
+               "url": "https://www.typing.academy/typing-tutor/typing-test"
+            } ],
+            "date_added": "13253133036711780",
+            "date_modified": "13258966097325136",
+            "guid": "0c6be87f-7f40-48c8-99f3-a6ec27636c88",
+            "id": "16",
+            "name": "Typing",
+            "type": "folder"
+         }, {
+            "date_added": "13249805128873361",
+            "guid": "24b223e0-3f20-48b9-8abd-b6ad89645341",
+            "id": "20",
+            "name": "Self Authoring",
+            "type": "url",
+            "url": "https://www.selfauthoring.com/"
+         }, {
+            "date_added": "13251082283819631",
+            "guid": "709bfa7b-1643-4878-a8ab-865566183e15",
+            "id": "21",
+            "name": "Dr. Darek Dawda, PhD, CPsych, Psychologist, Winnipeg, MB, R3M | Psychology Today",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/ca/therapists/blue-cross/manitoba/266451?sid=5fc2de2b4563f&ref=1&rec_next=1&gid=170048&p=1"
+         }, {
+            "date_added": "13256535889882522",
+            "guid": "26b92b92-109d-42a8-9de4-f4e619b6b94e",
+            "id": "58",
+            "name": "SFML",
+            "type": "url",
+            "url": "https://www.sfml-dev.org/"
+         }, {
+            "date_added": "13253175082205693",
+            "guid": "fbcdc201-fb80-4d14-9ad2-f283925f38a0",
+            "id": "38",
+            "name": "Server-side web frameworks - Learn web development | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks"
+         }, {
+            "date_added": "13261119449465137",
+            "guid": "8e23ac6e-dc24-492c-98f4-1f80db32abd8",
+            "id": "70",
+            "name": "A Quick and Easy Guide to tmux",
+            "type": "url",
+            "url": "https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/"
+         } ],
+         "date_added": "13253133018140573",
+         "date_modified": "13263279233957296",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13253133018140573",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13253133018140574",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJAE9AfUvABQAhAE9AfUvABQAiFAkBJJWMS8AFABABGaZ48BsdUzqTMhgKFggCEe77YI1LwAUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgkAT0B9S8AFACEAT0B9S8AFADIYChYIAhHu+2CNS8AFABgAIQAAAAAAAAAAIABIlrDVwo4vcL64le+NLxIAIAEqGEwwZG55MmhFMzJFVDBQLzAwOFUvNFE9PRKtAggQEqgCChwzVUFiRUhQRUNhMGkrNGJ3TWVlN0Q1V1UrRzA9EqYBWjpBRHF0QVp4OFVtbUlQU0QxTVliWmhsR09CQ0FVbEpaellOanBuWTZXL3UwSFZRam04Q2dMOThHVCs0eEdJTmgrdWpGQldKMFZsZXpmL3k5RDc3dDhNZ2UzYXhMdm9oOGtYd0FHbU9JWXl3SDZybEhVMWM4MDUrUm1lYklCWTlacW5LRlFueE1mVXkyK0wwSHRkMHV1bGQ0M1FyNjJKRlZUZkE9PRgAIAIoAjDys+Hb84XvAjjqs4Hj3C5An5nD1/0uShxPSXJodHo5TFZhelJzMnlheDJhZkpKREp6akU9Wh8iHdU1RERIR2lrTmttWGZxbjlsWE1BNjZTVXVYUkk9ZQAAAAASrQIIExKoAgocR1NadEZYUEJtRXdndHl5S2tjWGp3b3JITHVnPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVWxKWnpZTmpwblk2Vy91MEhWUWptOEJEcEp3cllQcmlkNnQ2QnhWcGpHRGtZVHdvN3BXbXQ0L211b3VSaUJuVUVaalJtZVRRQ1Brejc0M01GU3Nhblc2SHg1MytxRzFKb2Q1a1MzUytwYTh1dVVxVm1jRFE1WnFYTVFDY29sM3dkTklPY0d3PT0YACAAKAAwge/F4uWE7QI4x+qE49wuQMfqhOPcLkoccUQyelFhTUkxVFBab3lSeWtldVVrTGdnNEtBPVofIh3ZU2dPTTIrSGp6VW8vLy9CSHROMjcraEQ2Q3g0PWWHgoiJEqwCCAwSpwIKHGxYR0s4TzJVVkFQbk0wUC9LRHZ3STgzOVFOND0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVsSlp6WU5qcG5ZNlcvdTBIVlFqbThMbERIOHlhUmo3ckhYQ0JTQWt4UklUV2NXeE12Z0dpN1BvYmtNdzlrVDR6N2IwMGh1UlY0UituWElYWlVmTFcxT0xWR3JnR3doN0Z2aFF0Q200UnZubmVTekRHU0R0Vm83eWVlSkEwSkVUM1JjNVlIZz09GAAgESgRMNamgrHIye8COJiy6/bYLkDmq4ishi9KHCtCOGlSbGhQL2llSDA0bjVrbnhsU2Q1YzNVND1aHiIcVlU3YXpEVklrbU90VDZ5b2gwOVBqK3F1cGpZPWUiBMDEEq0CCA8SqAIKHDI4aHc1d2JqL0JpVlFNLzFCd0xRKzRNNTFMMD0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVacUJvZE1VNlVTU05EbUhuT2xUNThIZHN0REJNV09qSnV2MlpnZVJmSDMrczVtempxaVdvVVFXSVpmZU1qbGgreDU3MHR5Qk1xN21zcUpRZzlxdG44Z3BteFY4azVOcFJBdGljbmVUY0ZBTEZkSXF1M0hHMGlBQnZ5K1JHVGFKRE81bGVEZz09GAAgACgAMM7rv6T78+0COIyHg/7YLkC56bWA6y5KHHczN3JlYUIySE1OeG5mMmdscDdiczA2aEV6UT1aHyId6kpybmtZM1diWXF6bmU4aXR5Tmkxa25aTHdwdz1lpxzSGRKrAQgBEqYBChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9Ek5aOkFEcXRBWnc0OGFOb1hDT1FFUFhONk1uSWsyL01tSDc3RCtPQ2I3ZGJtR0hyanJPT0tJbGpNQjRLVk1FR1g2UVBKMkRlc0dyWVZPVzEYACAAKAAwh77TsZPi7QI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgBlAAAAABKtAggOEqgCChwwTGMwbVgzUklPaVA2R2o4THYyd0w4K3VIbEE9EqYBWjpBRHF0QVp4OFVtbUlQU0QxTVliWmhsR09CQ0FVbEpaellOanBuWTZXL3UwSFZRam04SmRxMFVjQ241QlBOd09yVTkzRlNNTDliNTFINEx5WGtIdStVdVVrK0MwWlltMzYzVldobWNibkNzVnFCelZjR1R0Y2ZaanRkSVJydUd4TndUWFU3ZXgrVTBNZHJraTBzMnVhc1UzVFhHaTFaUVlMaUE9PRgAIAUoBTD0qq/0tuzvAji+goj32C5Aubem54ovShw5bzdRcVhxcWVSR0xJOTBJblBxQUx0Y0FmUXc9Wh8iHdViWlFuNFhhYlRWeUdKTHBiZlFyY0lNTjdFRGs9ZW8o+2cSrQIIBhKoAgocUGNpS2hvSWtjemlaaGUzeTdrRTM5V1RBU0swPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVVpxQm9kTVU2VVNTTkRtSG5PbFQ1OE5ydVBQNE1LUjBkRHRDWXk3d1l6dWx0aHNxMUtuK1ppV2NCRmVla0pHWklidGRsOWU0ZnVyb0YyR1MvVnB3ZENkZFN2dGh3WmloaVl2QW9iTjB2S0ovYzY0cHU2di82OUI2eGFSUkhsMWJnQ04za2tnPT0YACALKAswoPPfgvb97wI44veP/tguQJOV9IWNL0ocRWxhOGdzaXkvTlhvT0RKcHFyOE0vVkVQSjhjPVofIh1tVndPUFNGNlNmQXNtZmg5dlVkSXNEbmV2WXdJPWVmT8y6Eq0CCBQSqAIKHDVMVFN0ZVZrVTB4Vmw3eWc4bll2bSt0Ym1Vcz0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVsSlp6WU5qcG5ZNlcvdTBIVlFqbThLUEJJSEhCUmFqQktlT0M0TTJpRk5PcTl4MnR5MW9tcjR5aHZKaGJtcmlNZlpyVy9TMDd0K09XYjE3RDd3ZHNjVElpTStUU0lWZkU5eVBuR1Q1YlowZzdHYnhvbzRjOThsYUpmVXg3YUs3dUlvVlk1QT09GAAgAygDMOXDpfiO6O4COKnZ3KncLkCPvb3v+S5KHDNMV1ZoRTY0aUxiZHRwTW9vSFdaYUphMXh0bz1aHyId73JzSDdkV3VseXM4N1p5WDZmdHQzeEpzRStzOD1l7ZxLORKtAggSEqgCChx0V2sxNWVVamJjWE5Xcm1nTzdoR1dRUkNCOXM9EqYBWjpBRHF0QVp4OFVtbUlQU0QxTVliWmhsR09CQ0FVbEpaellOanBuWTZXL3UwSFZRam04Tjd4UEJ4YkkyOHJGQ1hvRnZ3OG5CMFhaRWJWeEhOeFo2bTBLM085dzBmSTBFdkVENmhNUlQ0WVVhVFFtUU9Ua2ZtY1VFVlNrU0pvN0ljYTRJekFXTVI5TXh4Q0d0RjJDMTBzV3lUNm0xTlVtMDJEVVE9PRgAIBAoEDC6oOGQr4nvAjiX8YPj3C5A5o2kkP4uShw0UlRNTDl2d0tvNFlTUnhPNytINFMyNWwxdzA9Wh8iHbJGbGdoVDBKM2FabDVOeVhqa2JJcWVkOTZKTU09ZWIh0NESrQIIQxKoAgocVnFQWmh5TjlDekgwZ2FDM0ZzaDJiWDM4M2NRPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVWhpcCs3akxQZlpQdmQ4aFptSm1zTzBxTmxuQklCQTdqdzQwbWhaZkRSUWZMazRFRnNVU2hUSXV1NjNXOEFvQjkrOGdob0tYMlF5LzR5K1FnT3JCSmtudExpVzJtcnpDSndpNHRkMXdJZTZZMU1hbjYySVMrTVl3elFmVllyNDF1WkZEaEZRPT0YACADKAMwoID6w7CJ7wI4wdu6kP4uQIWGu5D+LkocVHl1emd5V1ppeDExNm9MUlZtWkNFZXFaOGRjPVofIh37SXU5eTVWZ3hIRGZCbElVMGM1UnpIaituOTMwPWXtgHC7EqwCCAgSpwIKHEVOcDVldGMyMFZvajdDRTdyWWR4Q2ZOMGs5QT0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVsSlp6WU5qcG5ZNlcvdTBIVlFqbThMUklXWGdxbGd0ZCtxeWxSUHVBalkrL1NXc2FvWFgwZVRLald4bVFqOEt1NWU0SDdmWE5DeGp2V2NkU1REMkI3K3pBU3NQakYxSkMrdS9FVE5iNHUvdHdvNlhEODBaSHlaTDRXVVdwMm56UzVsYnkwdz09GAAgWChYMOWzlN30s+8COMru8OTXLkDVjqnJgy9KHDFHSXNBeXFscXNCaWxTZ2ZSQzVwZzB3QmNaYz1aHiIcd0NZMWpiMmhaYmtYckpKd0xhQ2RJaDNNaFM0PWWOp89LEq0CCA0SqAIKHGRYTGRMazFYaElGVS90M1dIbzdYa1Z0aC9KUT0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVsSlp6WU5qcG5ZNlcvdTBIVlFqbThOeHpwSkhaanFRS3FadFpKV0Z0MlFONFhxVXBHQU90VTlmcmFLeEhlbDhHYk9qTlIyZHp3QVc1S1NmRkpYS29OcytoL2hleWxBUXc4MVFyQzdWZGZucDBsaDBreEJiWkNSWVE4N2RyNWMxK2QzRGUyUT09GAAgFSgVMLmr3cS0+u8COITM9fbYLkD28q/MjC9KHGt3elNiSXNCeTNMcUJhODJXY21QY2RlNTltOD1aHyIdq1VQbjdiSnhXM3crZUtWeG9kbkhSWmxnNmMzST1lb7RyGhKtAggwEqgCChxjeWgxNFczQU5QMnB2VU1ZNE9vcG5oWlFTTk09EqYBWjpBRHF0QVp4OFVtbUlQU0QxTVliWmhsR09CQ0FVWnFCb2RNVTZVU1NORG1Ibk9sVDU4RjRlOXoxcWM0czRlNzN0cDF3Nm9BU0VNYi85clBjZ0diM1ZLREMxRXQvV1B3U2dOZEV6N1lUYjNyRWdTaUF6VTdsb0dHeGNkcC9mNFEvOXpQcnZ6V1hpT25kL3M3NmtmUmMxTzNCQzliUzBWVittL2c9PRgAIAIoAjCUiqCohITuAjj/zOb47C5AmbXch+0uShxPNzEzRTB3aXAzSURlaWJzMFdacm1LdUdLbWs9Wh8iHV5WbnFaWk1aR1JCcFdvdnFYUkZMamRSeG1nSjQ9ZT1Qq+YSrAIIBxKnAgocbzE4MUoveGNPZ2NteFErcDdEeFNZOWNHdW1zPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVVpxQm9kTVU2VVNTTkRtSG5PbFQ1OE5lcW5lSktKNTNJcGdxbVptNXV2Sk9LZjFMWjYrYVY3OG1zQmNKWXZEaXJkeXI5aytsamxjcjJBdTBJcURCcVZQRGdhTnJHelRQbWgvejFsMndpS0JnenlGL0xxVXRyTFFFQUJzUkhHdE1lWG9BdWVnPT0YACAEKAQw38i+8d3O7wI4q6CR/tguQMef4oCHL0ocMDhkNTdWT05wdlIzTmRDaEVtaTdSb3hrMGZnPVoeIhx1eHBLK0JvL3lzU1NyUlNwaTFoZTBmUkJ1elk9ZUEHzf0SrAIIRBKnAgocRmxPbENRa2plOVVVQ3VjOW9CemFhSWtWUi84PRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVWhpcCs3akxQZlpQdmQ4aFptSm1zTzBNb0krU1dUZ0VhT0lTVVNKTXFZNlNrSllWMEY2Yi9BZEo1QzE1b2d5NXlNWkg3S01tcURjL3dPOTV4TVJIUGpQcEpKNXZhUDJTUkpBNjlvTnZVelNVWkV0TmJrZUlLTEw4VHVueGM0R0N4YWlEajBRPT0YACAGKAYw1fjruoSO7wI4reuBuv4uQOLp3tz+LkocYXRFcnJsaWVrVko5bnJSQ2M1NS9hT3JSWE00PVoeIhxTWHlvQUdLNFZ0c3V6QkRwc3RvWGxaY243QXM9ZY6nz0sSrAIIERKnAgocb0p1L3VnUWFFYjU1a3RlM1g3V2lhd0ZEZGtjPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVWxKWnpZTmpwblk2Vy91MEhWUWptOE5mY1NyY0x3OEhtd0JkS3BNYzhEcU1vR3BSVWw1TVR6R1Z1OS9wSERFUUEzMXNhZXBtUWpCWmkxdCtsWGlVSUw4alBoT2xCcTcvbkpKUEMxR1FBSTh0dnBqMzZnMStOYmRCZFNUZzdUZ0g2VWVIald3PT0YACABKAEw1/Tjsbb97QI4goGC49wuQJDGuJvsLkoca01CZ055QVNIZmZuVk0rN05CVksyUnJtVzNBPVoeIhxlbzdGTVhhNU9qQzhpa1VGM05KTWdEMXBIZUk9ZUlW2y0SrQIIRhKoAgocQzVFV0orUXd3WktONjNrME9COVNaZ2RWS25NPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVWhpcCs3akxQZlpQdmQ4aFptSm1zTzU4L0orUGp5S3FTTGlsdVVxT3NKTTlYa0txc3VyanNtZFQxdzU3K0cxRFBMcGZGYlhiNlYwcEhrZU9BbXo5by93TU5RYnZtSjU0a1BqNVZKWnI1VFhyOWJ0VHVhR20va3FmSTJQb2pieHE5SFdMLzZRPT0YACACKAIwgLjm/srK7wI4+oLovIYvQIaD6LyGL0ocbVorMERJT0ZuQi9pa1ZWeGVZNGtrLzc2VXVrPVofIh3/Ti9WUnVPTWVMNXpYVVhVMGZzeWxCRmU4OFRFPWX6fCKxEq0CCCYSqAIKHEt3TDRSa0VLMnF1S2l1QmtDd01aaWdoOHo4TT0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVoaXArN2pMUGZaUHZkOGhabUptc08za2UvRllYblRzNG9EdFV5SUR5aStWRGZXQlc0QllmUHAwVEt3VS9wWjhqWllvbkxleEZtcDZDdlIvMkE2T2JCVTVHSHdLQXB5VzZrdEhTWDY2MldmMGFocFkzNzNFQi9PY1NBemIrM3l6ZDBCeWRrdz09GAAgBSgFMLyBqrnCuu4CON2p0vDoLkC3srSE9C5KHDZQQStodDRvMlQ0MlBXa2JNU3IwZk5MMXRkRT1aHyId/itDVi9Md2RtZC81MGd1THVtZXRkdk1TNW8rMD1l0SyR3hKtAgg6EqgCChxSWno0MWNhNWt5d2Fwc1NidmszR3VLRnhiYkE9EqYBWjpBRHF0QVp4OFVtbUlQU0QxTVliWmhsR09CQ0FVWnFCb2RNVTZVU1NORG1Ibk9sVDU4TUZpekJWVDY0NThad1ljTk9FUEhLdHl3M0Q3Y1ZPVVRHSTR5N1RIUGZ1Tjg3aHhxM2xYSzIxakJNSlEvTkVzNm42THpINUs1TjdJWTExZ25JZUdjMVpVTGJKSmdyQzFZbitwWDF0V0hNZTYzYzl4TEE9PRgAIAIoAjDn16vonsXuAjjb35mz9S5AsIOKtPUuShxpeUY3cDY4ckNWYlIzSkNVSktWNjRWSUdnaEE9Wh8iHftlUVdaU2UxTGFiOHQ4QTZRSXNZWDh6YVpSWFk9ZfICbgISwwEIAhK+AQocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRJmWjpBRHF0QVp6eEhYQ2oxL3lVM1UvRzhoc0dQQWhhWE03V04wYTFIeXFHUmZTN1NTRUowTklkRHI3QVV1SGpOa21WNkxvZ3lFelBtQkx4RnRmbi8xR2V2SVhLNHNsSVFlSzd1UT09GAAgACgAMIe+07GT4u0COABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAZQAAAAASrQIICxKoAgoceHpIUUZSOXlTZCtTTXpOa21ZYnJqOE9uU3pFPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVWxKWnpZTmpwblk2Vy91MEhWUWptOEh5blc5bFBGUlBrUENNZWFlbVlQWVRFYW04akVQeGMyVTZjWlBOUGpYMHowTnMyTHZlSVQ4ZVQ1Q080djl5Z2VqdEVla0JOemt4QitPc2lOUHZKcjJNV052REQ1MkFNbVBibTU0cnBtTUFma3c5eWl3PT0YACAAKAAw6qKbtuDm7AI44ITr9tguQOCE6/bYLkoccTdXTmJUejlTakE5R2ZrTjBFbE5uSkwveGtJPVofIh28czFvaWhnZmpBWEQ1Qm1YQ2ZYdDgwN0lQMVVzPWUAAAAAEq0CCAoSqAIKHDR6eVlTRy9wNnFCaHJHRVVnZytZMGpJS3J6WT0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVacUJvZE1VNlVTU05EbUhuT2xUNThEUmR3VThCUHMxV2NIVHlRUDZDUUx2K2lVY0FMaTNuV1pNQ1lKY3Fvbm5rSHRpUkRsNDRTeVVIOG1scS9rWVIvaFY2b0tZWm5WczVONnc2N0xWK1NTWFUxbEZsc1JTT25ObE82SHBEZHQ5c0RNWU9EZz09GAAgISghMOviy7WV1+8COPOEk/7YLkCorvmKiC9KHHd4MFpSNjdvMVFyQjI1SnZwNzViRmV0b1R3WT1aHyIdmU1jRjR3UE5hekQ2NG10ZWpFWm5mTjJlOERsQT1lZ+fLVhKtAggJEqgCChxGLzBkWWphVFBCVlN6Z1hxTDdRY1VaN3F2TVE9EqYBWjpBRHF0QVp4OFVtbUlQU0QxTVliWmhsR09CQ0FVWnFCb2RNVTZVU1NORG1Ibk9sVDU4SE80eXhtOEZoakU1SFVQYkFVVXJaaWYrdW1BVFlPaUFRaE96aGN3Tmw5VzErOTNoWWFLY0w5UFhFYVBKakZMc2ZTaVBsZGpwaUFabEt6aWUwS011b2tBNTNnNHRHSnpaVTFpVW1ta2djejFvNGUxVWc9PRgAIAooCjCG7L/gze/uAjjk15T+2C5Amteb6vouShx3ZktiK2dKVjVRL0dvOFlRbmUxZVAvZms0OTA9Wh8iHYhJWDJEN1BpQ29KRXYzajk2OGZRbTgxOFBveFE9ZWJsN/QSrQIIFRKoAgocYVNxazdSNDZLSjJDY0JkUkFPQUZKZDZLbGRjPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVVpxQm9kTVU2VVNTTkRtSG5PbFQ1OEhjOEtrNXY4MlUrU2xDd1cwWUJQRUt4WjZBSms5VmRyZGJMdlNwUlpGa0JnbzZ2ZUkrZEc1YmJZU1NORmpyVXN2TElRK2lQVnN0Q3VORVR6bEIySUtZVTNQdGpiSzdTc205azMzZjRMVDBtQmJwa2dRPT0YACACKAIwisOnspPi7QI4rYbciuEuQOOJzNzoLkocRFdGbWJGOGZJY250ckJ6Sng4WlhzbHRKWTFFPVofIh33K0hycFZpUFAvUHRVb1VmTzRzT01OeFpwVjZJPWUbYkGKEsMBCAMSvgEKHHk1V0UyN3VJNnZYL0RlSVNISnpuak1xdVdXcz0SZlo6QURxdEFaeEFyN0JxQ3gwbVR6ZjlQSkNpUkNGRGVRbEZIV2FSQ1JOMS9UdUZTSzN0QXJGd05OWXdHeHA2V1BDbTYwY3RacFVoYVpvWTg0V2RJRkdLVGNFUVBmZGFtT3ArT3c9PRgAIAAoADCHvtOxk+LtAjgAQABKHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aAGUAAAAAEq0CCEESqAIKHDlteCt4Y0c1dXUycXJ0cUJYL2swTUNnYk1Zdz0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVacUJvZE1VNlVTU05EbUhuT2xUNThPZXNCUWhzb1VJcGRUcS9PMk9CejNhRDZLcWpXQXBpdVptbjYrd2hOVXlwZlR0cm1kSTJVZ3NwUGw5bmNVd0NiMFNxalV0bTJRaHBWaUhrZ0tqclNNKzQ1cjY5WWtUYU93U2w1VnJUaFJhRXFQVSt2dz09GAAgCigKMLWl2+SEr+8CONmq1oX9LkDVu7r5gi9KHGp5eHkxUGViQ1FVN2NJWnlNZGRYNXU2Z3VYRT1aHyId7DVKVVc4WFgyTlB2SkhEZUNWOFltT1FpdHF2ND1lTjUK+RKtAghCEqgCChwwbkIwUjM5TTNzTyt5Z0s2cVR4MGtCMG1WSlk9EqYBWjpBRHF0QVp4OFVtbUlQU0QxTVliWmhsR09CQ0FVWnFCb2RNVTZVU1NORG1Ibk9sVDU4RW5CWVc2eFNWeVpaeFFhK0dTckhOZkpUd3R0aWEvanU2M1g5c1RPL212d1F1L3pQUWJmc29rQ2prNVZZc3ZGa3pUekpxcmgrclcrQlpQWWxzazJDbkF2UHJ3ZjlYYWtFZDJ1Z1hNVG5PY0cwQjNPN2c9PRgAIAEoATDLvp+85IbvAjikiubR/S5Ap8j65f0uShxqcjJ3bzNIWnRReE9CaHM4Q2luL2lQR2VWbm89Wh8iHfZPY2ZRNU1qNW4xanNhdmYwcWEvOEZFUGdYc0U9Ze2AcLsSrAIIBRKnAgocbUQ2MnV0R1BiZE1MWmdSa0NXQ213Q1JWOVpNPRKmAVo6QURxdEFaeDhVbW1JUFNEMU1ZYlpobEdPQkNBVWxKWnpZTmpwblk2Vy91MEhWUWptOEZiWThnaHZqNnlYTmNYUUIySkQxdFphQWdwSFRnNEp5UmI5UWJZN3NPZjFHWHRab0JTcmlVVFNkeFFSZXh4dyswZGptSnlFQ0dWUEIzK2RpZlhFU2Q4N0s3ZmxWbkpySVEzNmVsWHZwVG9KdjFvWUVRPT0YACAoKCYwmZv6urL+7wI4n7CM99guQILB6biPL0ocYkpQemN6OGk1ZXJuNjFEL041S05sczk0akRRPVoeIhxkT2RZaHdNOVdYbkxHdk5OQko2b1NJUng0UVE9ZRmIyiESpgISowIKHDIwb0k1TkVJazBnZGZrMFJLM1Q2cU5TaW44Zz0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVacUJvZE1VNlVTU05EbUhuT2xUNThDVWpoNzVLOFh1MzJYcGxmbjNuREdJUXJKODJBQ1Rtanhnc04yZmFKZTIvcm9WOGdJbHVXSlB6cndueGlHYlhlV29sR0RBbU5saGRJMzlVNWdGOEFBWFRya3FNOTJ3S2tzSG5KNkEyN0pHOStDUURSUT09GAEgAigBMN2Riq66q+8COMbtuM7tLkC4h+K+gi9KHDR4dFdHZlY0eUNOZHNCQTlaV2ZTMGt3SThTMD1aHyId+jhGRDM1NHJsTlZGQUdXVk5TZDEvVER1VTZOcz0SpgISowIKHHo3THZXWDkzSTAwM2gzTGhGcWVIWGx0REN3bz0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVacUJvZE1VNlVTU05EbUhuT2xUNThQOTRRdDRESS9WVncvbWw1ZFM3YXZNZEtEaGsrMXNscGlvV0gxa3poVWR5VkhhclpqSTlRU3NQSEkvaHd6WVo4ZXAyYmZxS3RRQTZDMmVFdDdIMm1GOG1neHozb1V4aHU5VGV2dWY1b3hScXlxbnBqdz09GAEgBCgDMNnFgNKck+8COLezjL78LkDT4+Cx/y5KHHppNG5oM3RvMnRVVVVXdUE5dWRSZVBwT3Y5Zz1aHyId/0VFYy9OVTIzZXpqKzZvOVF4LzJnelcycnpqUT0SpgISowIKHHdIWWtJUm9kcldOMm1NN0JTTHRrejhsbVBZOD0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVacUJvZE1VNlVTU05EbUhuT2xUNThNbVR3SlE5cGVERndCT252VXdDV0gwK0Y1TjJLTWhNTlIrL1p1SngrZ3RyekhqVWRTUzR5ZnFHdnNVck1HU1ozSFR0aTF2ZGQ5N1ptRk5Kc0hYWDM1OWlSbE16NjRHZlcxNkxHMUt2KzhNUUpkWTkzUT09GAEgASgAMMGZps6Uuu4COMTqxP7zLkDE6sT+8y5KHER6Rm9rNzNrLzRiQW8vZXFvS3BxYnl1YThsUT1aHyId9WtJMDNSb0pkcFAwWDVWSDFocWVGTVNwK1loZz0SpgISowIKHGc0VEptSFNVdTdXd0hmU3I0RVhSVy8rYlJqQT0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVoaXArN2pMUGZaUHZkOGhabUptc095M05lOXJ1cGlLZjhjTUJUVVhZL2xyeVBVNUVRZG1VZkNRRVlkM3R0VGlvUElZd2hENEVETDZKQyt4QmI5cjlSZnNnTFQ0TkFDY0llTHROSHlZQ3QzYXY3REwyK2JudWdGWTlkNmtlRmJyNkcwNnZ6QT09GAEgAygCMMjbk//I9+8COPW9652ML0DSy+udjC9KHEJ0Y2ZIdVNyNGVPNEhTdmovY244RmxXV21DMD1aHyId/1FMYVRsZEgrMGp2NWRmaXJaaFVCcU5lYmRObz0SpwISpAIKHGs1azdCQ25zKzBCK2RKS2RZTjVEUmpsMWNrUT0SpgFaOkFEcXRBWng4VW1tSVBTRDFNWWJaaGxHT0JDQVVoaXArN2pMUGZaUHZkOGhabUptc08xSkg3NDdHdi9IekNINlVUSTB4SVdFdE16bzI5UW1yaUVHMFU3aS93UHVPUUFwWU83d0pQUnZSYyt5d0swbjEybEtRcXNpSXhnNGpZREwveW1rSHk5bjJUMk5yVC9OTjRFS2lXN2NLZDhTeFIwZjBxQT09GAEgAygCMIDI1OS4ifACOKbn1sKOL0Cs59bCji9KHFVpeXdxYmJVWG0vZG5UaVFkbmFzc0xNUU9OND1aICIe/6hDZE8xMzBqUjJhSEkzVFpPaW8ycWI4NllpVmM9GAEgoeLXwo4vKAA=",
+   "version": 1
+}

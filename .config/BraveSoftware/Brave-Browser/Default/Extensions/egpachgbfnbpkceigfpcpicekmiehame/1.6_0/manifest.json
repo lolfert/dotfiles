@@ -1,0 +1,25 @@
+{
+   "author": "Lorenzo Zottar",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/bg.js" ]
+   },
+   "default_locale": "en",
+   "description": "Pinterest Enhanced Experience - Fixed Height | Full Size images Download | Google Image Search | Arrow Keys Navigation through pins",
+   "icons": {
+      "64": "img/iconON.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjf9zM/u1YM+HmXBI9c6LLSoKgScdAOaU0VBvrxYy/gD+X8dnRHczy6xlX64wbMJovEIqRw2yZUhujydeTTm0JhnCxysrY/0CBw9dfdwD1gDnElw/FP2eeJa/Zc2dIbZpAwUSOUeFrjHrksu9u7jvF+J/vrIVkxI0ukRPnR/gdDdGZw/X6UKIe/1NirkTZUCrq/CzJFj/7ml2Sdf6RDw8Wd15xW1yn++o/IdG/cg21z8pvRvsH8mxaAwY7BkKEjMBfI33+BPekpXBLri4ABafYQwJPPGtLtuzRIkzjPU8ATmk9CP7cLWJP3oX9vFJXy8gNf/lXnR4cCwotNMWZMElOwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_title__",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": "img/iconOFF.png",
+      "default_title": "Pinterest Enhanced Extension"
+   },
+   "permissions": [ "tabs", "activeTab", "notifications", "*://*.pinterest.com/*" ],
+   "short_name": "PinterestEnhanced",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6",
+   "web_accessible_resources": [ "css/fixedHeight.css", "css/extraDownload.css", "ajs/inject.js", "options.html", "img/download.png", "img/search.png" ]
+}
