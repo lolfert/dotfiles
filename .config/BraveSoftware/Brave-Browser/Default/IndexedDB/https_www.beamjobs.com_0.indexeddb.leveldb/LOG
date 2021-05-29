@@ -1,6 +1,0 @@
-2021/05/19-18:50:51.252 1a338 Creating DB /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.beamjobs.com_0.indexeddb.leveldb since it was missing.
-2021/05/19-18:50:51.262 1a338 Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.beamjobs.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/19-18:54:09.758 1b0c1 Level-0 table #5: started
-2021/05/19-18:54:09.760 1b0c1 Level-0 table #5: 1152 bytes OK
-2021/05/19-18:54:09.763 1b0c1 Delete type=0 #3
-2021/05/19-18:54:09.763 1b0c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

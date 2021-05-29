@@ -1,7 +1,0 @@
-[2021-04-16 12:34:37.842] [sharedprocess] [info] Installing extension: vscodevim.vim
-[2021-04-16 12:34:39.668] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
-[2021-04-16 12:34:39.804] [sharedprocess] [info] Extracted extension to /home/luke/.vscode-oss/extensions/.vscodevim.vim-1.19.3: vscodevim.vim
-[2021-04-16 12:34:39.805] [sharedprocess] [info] Renamed to /home/luke/.vscode-oss/extensions/vscodevim.vim-1.19.3
-[2021-04-16 12:34:39.806] [sharedprocess] [info] Installation completed. vscodevim.vim
-[2021-04-16 12:34:39.812] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
-[2021-04-16 12:35:16.239] [sharedprocess] [info] Starting to clean up unused language packs.

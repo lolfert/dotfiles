@@ -1,8 +1,0 @@
-[2021-03-25 21:37:21.686] [sharedprocess] [info] Deleted from disk llvm-vs-code-extensions.vscode-clangd /home/luke/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.9
-[2021-03-25 21:37:23.492] [sharedprocess] [info] Installing extension: vscodevim.vim
-[2021-03-25 21:37:26.621] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
-[2021-03-25 21:37:26.742] [sharedprocess] [info] Extracted extension to /home/luke/.vscode-oss/extensions/.vscodevim.vim-1.19.0: vscodevim.vim
-[2021-03-25 21:37:26.742] [sharedprocess] [info] Renamed to /home/luke/.vscode-oss/extensions/vscodevim.vim-1.19.0
-[2021-03-25 21:37:26.744] [sharedprocess] [info] Installation completed. vscodevim.vim
-[2021-03-25 21:37:26.750] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
-[2021-03-25 21:38:01.545] [sharedprocess] [info] Starting to clean up unused language packs.

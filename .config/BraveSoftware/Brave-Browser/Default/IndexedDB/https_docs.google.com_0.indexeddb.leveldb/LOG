@@ -1,8 +1,0 @@
-2021/05/24-12:27:34.422 1176ff Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/24-12:27:34.422 1176ff Recovering log #19
-2021/05/24-12:27:34.422 1176ff Reusing old log /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000019.log 
-2021/05/24-12:27:50.777 1176ee Level-0 table #24: started
-2021/05/24-12:27:50.777 1176ee Level-0 table #24: 0 bytes OK
-2021/05/24-12:27:50.781 1176ee Delete type=0 #19
-2021/05/24-12:27:50.781 1176ee Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/24-12:27:50.781 1176ee Manual compaction at level-1 from (begin) .. (end); will stop at (end)

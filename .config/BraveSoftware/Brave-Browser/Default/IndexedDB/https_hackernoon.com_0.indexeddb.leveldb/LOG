@@ -1,6 +1,0 @@
-2021/05/27-15:21:07.136 1ea735 Creating DB /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb since it was missing.
-2021/05/27-15:21:07.143 1ea735 Reusing MANIFEST /home/luke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/27-15:21:48.295 1e929f Level-0 table #5: started
-2021/05/27-15:21:48.297 1e929f Level-0 table #5: 1153 bytes OK
-2021/05/27-15:21:48.300 1e929f Delete type=0 #3
-2021/05/27-15:21:48.300 1e929f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

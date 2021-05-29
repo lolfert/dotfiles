@@ -1,6 +1,0 @@
-2021/05/18-22:24:16.481 11ec9f Creating DB /home/luke/.config/chromium/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb since it was missing.
-2021/05/18-22:24:16.502 11ec9f Reusing MANIFEST /home/luke/.config/chromium/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/18-22:24:25.364 11c38b Level-0 table #5: started
-2021/05/18-22:24:25.370 11c38b Level-0 table #5: 2045 bytes OK
-2021/05/18-22:24:25.382 11c38b Delete type=0 #3
-2021/05/18-22:24:25.382 11c38b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
