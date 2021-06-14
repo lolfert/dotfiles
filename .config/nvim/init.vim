@@ -1,10 +1,24 @@
+" <-- Plugin Declarations -------------------------------------------------->
+
+call plug#begin()
+        Plug 'neoclide/coc.nvim', {'branch': 'release'}
+        Plug 'Raimondi/delimitMate'
+	Plug 'tpope/vim-fugitive'
+	Plug 'tpope/vim-surround'
+	Plug 'scrooloose/nerdtree'
+	Plug 'Xuyuanp/nerdtree-git-plugin'
+        Plug 'sickill/vim-monokai'
+        Plug 'hdima/python-syntax'              " Python syntax highlighting
+call plug#end()
+
 " <-- Colors & Syntax ------------------------------------------------------>
 
 syntax on                                       " Syntax Highlighting
-colorscheme pulumi
+colorscheme monokai
 
 highlight Normal                ctermbg=NONE
 highlight LineNr                ctermbg=NONE       ctermfg=2          
+highlight EndOfBuffer           ctermbg=NONE
 highlight Comment               ctermfg=3
 highlight Search                ctermbg=2          ctermfg=15
 highlight SignColumn            ctermbg=NONE
@@ -17,22 +31,15 @@ highlight CursorLineNR          ctermbg=1          ctermfg=14
 set nu                                          
 set relativenumber
 
-" <-- Plugin Declarations -------------------------------------------------->
-
-call plug#begin()
-        Plug 'neoclide/coc.nvim', {'branch': 'release'}
-        Plug 'Raimondi/delimitMate'
-	Plug 'tpope/vim-fugitive'
-	Plug 'tpope/vim-surround'
-	Plug 'scrooloose/nerdtree'
-	Plug 'Xuyuanp/nerdtree-git-plugin'
-call plug#end()
-
 " <-- Keybindings ---------------------------------------------------------->
 
 nnoremap <silent> <C-t> :NERDTreeToggle<CR>
 
 " <-- Fixes & Misc. -------------------------------------------------------->
+
+set ttimeout
+set ttimeoutlen=0
+set timeoutlen=0
 
 set guicursor=                                  " 
 set tabstop=8                                   "
@@ -117,6 +124,10 @@ nmap <silent> gd <Plug>(coc-definition)
 nmap <silent> gy <Plug>(coc-type-definition)
 nmap <silent> gi <Plug>(coc-implementation)
 nmap <silent> gr <Plug>(coc-references)
+
+" Prettier
+vmap <leader>f  <Plug>(coc-format-selected)
+nmap <leader>f  <Plug>(coc-format-selected)
 
 " Use K to show documentation in preview window.
 nnoremap <silent> K :call <SID>show_documentation()<CR>
