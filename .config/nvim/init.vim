@@ -9,16 +9,19 @@ call plug#begin()
 	Plug 'Xuyuanp/nerdtree-git-plugin'
         Plug 'sickill/vim-monokai'
         Plug 'hdima/python-syntax'              " Python syntax highlighting
+        Plug 'nlknguyen/papercolor-theme'
 call plug#end()
 
 " <-- Colors & Syntax ------------------------------------------------------>
 
 syntax on                                       " Syntax Highlighting
-colorscheme monokai
+colorscheme PaperColor
 
 highlight Normal                ctermbg=NONE
 highlight LineNr                ctermbg=NONE       ctermfg=2          
 highlight EndOfBuffer           ctermbg=NONE
+highlight VertSplit             cterm=NONE         ctermfg=NONE
+highlight HorizSplit             cterm=NONE         ctermfg=NONE
 highlight Comment               ctermfg=3
 highlight Search                ctermbg=2          ctermfg=15
 highlight SignColumn            ctermbg=NONE
