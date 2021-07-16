@@ -1,2 +1,5 @@
-exec /usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME commit -m "Scheduled dotfile sync."
-exec /usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME config push origin
+{ 
+        /usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME add -u
+        /usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME commit -m "Scheduled dotfile sync."
+        /usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME push origin master1
+}>&1

@@ -64,7 +64,7 @@
    XF86MonBrightnessDown
 
 # Start Browser
-"brave"
+"google-chrome-stable"
    XF86HomePage
 
 # Start File Explorer
@@ -72,7 +72,7 @@
    Super_L
 
 # Start File Explorer
-"feh --bg-fill --randomize /home/luke/Pictures/Wallpapers/Current/*"
+"feh --bg-fill --randomize /home/luke/Pictures/Wallpapers/*"
    XF86LaunchA
 
 # Toggle Compositor Opacity
